@@ -1,0 +1,30 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+h1 {
+	font-family: initial;
+	font-size: 80px;
+	color: lightyellow;
+
+}
+
+.bg-primary {
+background-color: palevioletred!important;
+}
+body {
+	background-color: lightyellow;
+	font-family: initial;
+}
+h2 {
+	background-color: lightyellow;
+	font-size: 50px;
+	color: palevioletred;
+	font-family: initial;
+	background-color: lightyellow;
+
+}
+.btn {
+ 	width: 240px;
+ 	height: 70px;
+ 	font-size: 30px;
+ 	color: pink;
+
+ }
